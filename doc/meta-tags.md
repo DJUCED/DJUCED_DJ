@@ -182,3 +182,19 @@ DJUCED is using id3v2 tags by default but can read/write id3v1
 |"g  min"| 22|
 |"g# min"| 23|
 
+## DJUCED_CUE_DATA
+
+When writing CUE data, version 3 must be used.
+
+One "Cue data" contains :
+   byte version;//at the beginning of data
+   
+A sequence of "CUE OBJECT" data (at least one):
+    int num;// cue number (1-based index)
+    double pos;//pos in seconds
+    QWORD bytes;//pos in bytes
+    float loop;// is a cue + loop (only in version 2  and above)
+    int color;// cue color index (only in version 3)
+    ushort nameStringLength;
+    ushort * name;//"cue point name" characters, stored as USHORT (for UTF8/16 compatibility)
+
