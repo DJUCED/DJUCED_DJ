@@ -197,3 +197,6 @@ One "Cue data" contains :
    * ushort nameStringLength;
    * ushort * name;//"cue point name" characters, stored as USHORT (for UTF8/16 compatibility)
 
+## DJUCED_KEY_DATA
+One “Key data” contains :
+* int keyIndex, stored as a array of unsigned char
