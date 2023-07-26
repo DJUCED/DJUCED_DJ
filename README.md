@@ -8,7 +8,9 @@ DJUCED, is the DJ software that will guide you from your first steps in your roo
 * Hercules DJControl Inpulse 300 MK2
 * Hercules DJControl Mix
 * Hercules DJControl Inpulse 500
+* Hercules DJControl Inpulse 300 MK2
 * Hercules DJControl Inpulse 300
+* Hercules DJControl Inpulse 200 MK2
 * Hercules DJControl Inpulse 200
 * Hercules DJControl Starlight
 * Hercules Jogvision
