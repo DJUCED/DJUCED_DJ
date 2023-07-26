@@ -5,13 +5,12 @@ DJUCED DJ Software
 DJUCED, is the DJ software that will guide you from your first steps in your room until the success of your first show.
 
 ## Supported Controllers
-* Hercules DJControl Inpulse 300 MK2
-* Hercules DJControl Mix
 * Hercules DJControl Inpulse 500
 * Hercules DJControl Inpulse 300 MK2
 * Hercules DJControl Inpulse 300
 * Hercules DJControl Inpulse 200 MK2
 * Hercules DJControl Inpulse 200
+* Hercules DJControl Mix
 * Hercules DJControl Starlight
 * Hercules Jogvision
 * Hercules P32 DJ
